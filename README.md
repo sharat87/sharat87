@@ -1,4 +1,6 @@
-### Hi there 👋
+### Namaste 🙏
+
+I am Shrikant. You have reached my public projects space. Feel free to look around, and don't forget to visit my blog at [sharats.me](https://sharats.me).
 
 <!--
 **sharat87/sharat87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
